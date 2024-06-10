@@ -6,7 +6,7 @@ Features:
 1.Sign Up
 2.Sign In
 3.View Product List
-4.View Product Details
+4.View Product Details 
 5.Buy Product
 6.Sell Product
 7.Search Product
